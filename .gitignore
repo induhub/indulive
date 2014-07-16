@@ -1,3 +1,8 @@
+# exclude personal photos
+indu1.jpg
+indu.jpg
+indu2.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
